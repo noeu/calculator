@@ -1,2 +1,2 @@
 # calculator
-Technical Training - Repository For GitHub test.
+Tech Training - Repository For GitHub test.
